@@ -28,13 +28,13 @@ body {
   }
   
   .imagens {
-    width: 24%;
+    width: 30%;
     float: right;
     padding: 20px;
   }
   
   .imagens img {
-    width: 24%;
+    width: 30%;
     margin-bottom: 20px;
     display: block;
   }
